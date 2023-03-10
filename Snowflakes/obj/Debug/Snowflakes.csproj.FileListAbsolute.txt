@@ -1,0 +1,12 @@
+D:\работы\Snowflakes-Snowflakes\Snowflakes\bin\Debug\Snowflakes.exe.config
+D:\работы\Snowflakes-Snowflakes\Snowflakes\bin\Debug\Snowflakes.exe
+D:\работы\Snowflakes-Snowflakes\Snowflakes\bin\Debug\Snowflakes.pdb
+D:\работы\Snowflakes-Snowflakes\Snowflakes\obj\Debug\Snowflakes.csproj.AssemblyReference.cache
+D:\работы\Snowflakes-Snowflakes\Snowflakes\obj\Debug\Snowflakes.csproj.SuggestedBindingRedirects.cache
+D:\работы\Snowflakes-Snowflakes\Snowflakes\obj\Debug\Snowflakes.Form1.resources
+D:\работы\Snowflakes-Snowflakes\Snowflakes\obj\Debug\Snowflakes.Properties.Resources.resources
+D:\работы\Snowflakes-Snowflakes\Snowflakes\obj\Debug\Snowflakes.Resource1.resources
+D:\работы\Snowflakes-Snowflakes\Snowflakes\obj\Debug\Snowflakes.csproj.GenerateResource.cache
+D:\работы\Snowflakes-Snowflakes\Snowflakes\obj\Debug\Snowflakes.csproj.CoreCompileInputs.cache
+D:\работы\Snowflakes-Snowflakes\Snowflakes\obj\Debug\Snowflakes.exe
+D:\работы\Snowflakes-Snowflakes\Snowflakes\obj\Debug\Snowflakes.pdb
